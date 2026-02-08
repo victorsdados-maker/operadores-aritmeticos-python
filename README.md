@@ -1,2 +1,2 @@
-# operadores-aritm-ticos-python
-Lista de operadores aritméticos e exemplos.
+# operadores-aritméticos-python
+Lista de operadores aritméticos,uso simples e impressão.
